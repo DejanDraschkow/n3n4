@@ -2,7 +2,7 @@
 
 This repo contains the analysis code for the investigation of temporal dynamics of object-scene integration using MVPA. Our work focuses on the role of the N300/N400 complex in object perception.
 
-The data can be found here: https://doi.org/10.5281/zenodo.1421320
+The data can be found here: https://doi.org/10.5281/zenodo.1421347
 
 ## Code
 
