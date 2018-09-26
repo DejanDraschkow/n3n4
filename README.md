@@ -14,5 +14,5 @@ The data can be found here: https://doi.org/10.5281/zenodo.1421347
 
 The related article is currently in press:
 
-Draschkow, D., Heikel, E., Fiebach, C., Võ, M. L.-H., & Sassenhagen, J. (in press). No evidence from MVPA 
-for different processes underlying the N300 and N400 incongruity effects in object-scene processing. *Neuropsychologia*.
+Draschkow, D., Heikel, E., Fiebach, C., Võ, M. L.-H., & Sassenhagen, J. (2018). No evidence from MVPA 
+for different processes underlying the N300 and N400 incongruity effects in object-scene processing. *Neuropsychologia*. https://doi.org/10.1016/J.NEUROPSYCHOLOGIA.2018.09.016 
