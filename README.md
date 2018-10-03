@@ -15,9 +15,9 @@ for different processes underlying the N300 and N400 incongruity effects in obje
 
 ### Code
 
-(1) The preprocessing script "n3n4_preprocessing" can be found as a jupyter notebook, as well as an html.
+(1) The preprocessing script "n3n4_preprocessing" can be found as a jupyter notebook, as well as an html file.
 
-(2) The analysis script "n3n4_analysis" can be found as a jupyter notebook, as well as an html.
+(2) The analysis script "n3n4_analysis" can be found as a jupyter notebook, as well as an html file.
 
 ### Data
 
